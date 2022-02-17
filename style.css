@@ -1,0 +1,50 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 500px;
+  background-image: url("https://www.visafranchise.com/wp-content/uploads/2017/02/brazil-round-flag-vf-test-2.png");
+  background-color: black;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 40px;
+  color: white
+}
+.container {
+  padding: 30px;
+  height: 100vh;
+}
+
+.title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+  
+}
+
+.label {
+  color: white;
+  
+}
+
+.button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+  
+}
+
+.h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
